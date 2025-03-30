@@ -57,8 +57,8 @@ It uses structured prompts, agent-based roles, cognitive maps, and semantic feed
 
 ## 🔓 Access & Demo
 
-> This repository is now **public** and open for collaboration.  
-> All files are modular, readable, and can be integrated into custom AI systems or prompt workflows.
+> This repository is now **public**
+> All files are private, not readable
 
 - 🔗 *NSAI (GPT's demo) https://chatgpt.com/g/g-67d8857936f08191badfe2baf3bf1818-nsai*  
 
