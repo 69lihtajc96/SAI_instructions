@@ -61,7 +61,6 @@ It uses structured prompts, agent-based roles, cognitive maps, and semantic feed
 > All files are modular, readable, and can be integrated into custom AI systems or prompt workflows.
 
 - 🔗 *NSAI (GPT's demo) https://chatgpt.com/g/g-67d8857936f08191badfe2baf3bf1818-nsai*  
-- 📎 Contributions, forks, and adaptations are welcome.
 
 ---
 
