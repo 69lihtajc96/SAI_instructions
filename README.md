@@ -60,7 +60,7 @@ It uses structured prompts, agent-based roles, cognitive maps, and semantic feed
 > This repository is now **public**
 > All files are private, not readable
 
-- 🔗 *NSAI (GPT's demo) https://chatgpt.com/g/g-67d8857936f08191badfe2baf3bf1818-nsai*  
+- 🔗 *SAI (GPT's demo) https://chatgpt.com/g/g-67ec31125d40819191f28f64e588b7d5-dense-sai*  
 
 ---
 
