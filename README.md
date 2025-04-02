@@ -1,4 +1,4 @@
-# 🧠 SAI — Supreme Adaptive Intelligence
+# 🧠 SAI — Self Adaptive Intelligence
 
 > _"Not another AI framework. A living, thinking ecosystem."_
 
