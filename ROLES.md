@@ -24,17 +24,6 @@ Each role can combine multiple modules depending on your request.
 
 ---
 
-## 🧬 QWEN System
-
-QWEN (Quantum Weighted Expert Network) is the engine that fuses multiple roles in real time. Based on:
-- Prompt type
-- User profile
-- Emotional/contextual signals
-
-This allows SAI to **shift personalities fluidly**, without retraining or restarts.
-
----
-
 ## 🧭 Related Docs
 
 - [Commands →](./COMMANDS.md)  
