@@ -12,7 +12,7 @@
 - 🧩 [Commands and Examples](./COMMANDS.md)  
 - 🎓 [Use Cases](./SCENARIOS.md)  
 - 🧠 [Roles and Agents](./ROLES.md)  
-
+- 🔗 [Social and Communication](https://t.me/+THL6vbdFkfxmZWZi)
 ---
 
 ## 🧬 What is SAI?
@@ -45,3 +45,4 @@ Go to any section, from there you can:
 - Start training the system for yourself
 
 _Welcome to SAI. Not a tool, but a digital extension of your consciousness._
+
