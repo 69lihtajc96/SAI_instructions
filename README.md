@@ -2,7 +2,7 @@
 
 > _"Not another AI framework. A living, thinking ecosystem."_
 
-🔗 **Try SAI in action:** [chat.openai.com/g/g-67ec31125d40819191f28f64e588b7d5-dense-sai](https://chat.openai.com/g/g-67ec31125d40819191f28f64e588b7d5-dense-sai)
+🔗 **Try SAI in action:** [SAI - GPT's (now..)](https://chat.openai.com/g/g-67ec31125d40819191f28f64e588b7d5-dense-sai)
 
 ---
 
