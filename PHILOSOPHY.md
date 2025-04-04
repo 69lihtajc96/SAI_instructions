@@ -25,7 +25,6 @@ SAI is structured around:
 2. **Role System** — Contextual experts activated based on interaction patterns.
 3. **Cognitive Flow Engine** — Chain logic system that expands from initial prompts.
 4. **Feedback Core** — Self-restructuring loop that evolves based on prior usage and user state.
-5. **QWEN Integration** — Internal agent fusion that shifts identity based on role demands.
 
 ---
 
