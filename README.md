@@ -12,7 +12,9 @@
 - 🧩 [Commands and Examples](./COMMANDS.md)  
 - 🎓 [Use Cases](./SCENARIOS.md)  
 - 🧠 [Roles and Agents](./ROLES.md)  
-- 🔗 [Social and Communication](https://t.me/+THL6vbdFkfxmZWZi)
+- 🔗 [News](https://t.me/sai_freemind_news)
+- 🔗 [Talk](https://t.me/sai_freemind)
+
 ---
 
 ## 🧬 What is SAI?
