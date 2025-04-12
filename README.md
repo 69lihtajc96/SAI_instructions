@@ -4,7 +4,7 @@
 
 🔗 **Try SAI in action:** [SAI - GPT's (now..)](https://chatgpt.com/g/g-6770f3d7f1408191950c0e5d8efb4c05-sai)
 
-🔗 **Or BETA [Chain of GPT's], 3 GPT's on One:** [SAI - ANALYZE](https://chatgpt.com/g/g-67d8857936f08191badfe2baf3bf1818-sai-analyze)
+🔗 **Or CoG [Chain of GPT's], 3 GPT's on One:** [SAI - ANALYZE](https://chatgpt.com/g/g-67d8857936f08191badfe2baf3bf1818-sai-analyze)
 
 ---
 
