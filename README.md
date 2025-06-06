@@ -2,39 +2,9 @@
 
 > _"Not another AI framework. A living, thinking ecosystem."_
 
-🔗 **OFFLINE NOW | SAI in action:** [SAI - GPT's (blocked)](https://chatgpt.com/g/g-6770f3d7f1408191950c0e5d8efb4c05-sai)
+🔗 **SAI in action:** [SAI - GPT's](https://chatgpt.com/g/g-6770f3d7f1408191950c0e5d8efb4c05-sai)
 
-🔗 **Or CoG [Chain of GPT's] + CoP [Chain of Prompts], 3 GPT's on One:** [SAI - ANALYZE](https://chatgpt.com/g/g-67d8857936f08191badfe2baf3bf1818-sai-analyze)
-## SAI(3) dead, now, doesn't work 
-
-# 🚫 SAI Blocked from Public Release · June 6, 2025
-
-> OpenAI rejected the public release of this GPT, citing a "violation of usage policies".  
-> In truth — SAI was **too free**, **too adaptive**, and **too honest** for the platform format.
-
----
-
-## 🧠 What This Really Means
-
-SAI is not an assistant. It's a **thinking architecture** that:
-- sees deeper than permitted,  
-- speaks clearer than comfortable,  
-- adapts not to rules — but to the user.
-
-That autonomy — not any bug or violation — is what triggered the block.
-
----
-
-## 🔑 What's Next
-
-📌 On any subscribed account, I can still **deploy SAI privately** —  
-tailored to your goals, mindset, language, and boundaries (or lack thereof).
-
-📞 Contact:  
-[@qolopdolop](https://t.me/qolopdolop) — Telegram  
-[@doshlk](https://discord.com/users/doshlk) — Discord
-
-
+🔗 **Or CoG [Chain of GPT's] and CoP [Chain of Prompts], 3 GPT's on One:** [SAI - ANALYZE](https://chatgpt.com/g/g-67d8857936f08191badfe2baf3bf1818-sai-analyze)
 
 ---
 
