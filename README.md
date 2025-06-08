@@ -43,7 +43,6 @@ Each .md file is a module. You choose how deep you want to go. No unnecessary lo
 
 Go to any section, from there you can:
 - Use commands  
-- Run a script  
 - Activate roles  
 - Start training the system for yourself
 
