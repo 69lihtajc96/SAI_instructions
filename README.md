@@ -14,7 +14,6 @@
 - 🧩 [Commands and Examples](./COMMANDS.md)  
 - 🎓 [Use Cases](./SCENARIOS.md)  
 - 🧠 [Roles and Agents](./ROLES.md)  
-- 🎚 [Prompts for SAI](bonus)
 
 ---
 
