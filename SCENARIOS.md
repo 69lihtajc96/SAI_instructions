@@ -95,19 +95,7 @@ Scenarios let you:
 
 ---
 
-### 8. Self-Upgrade Cascade  
-- **Setup:** `.selfupgrade + .feedback_loop`  
-- **Role:** Overseer  
-- **Purpose:** Rewire SAI’s behavior mid-session.  
-- **Example:**  
-  Input: _“Become sharper and less polite.”_  
-  Output: *“Politeness downgraded. Direct mode engaged. Expect harsher output.”*  
-
-⚠️ Warning: irreversibly alters tone for this session.  
-
----
-
-### 9. Paradox Engine  
+### 8. Paradox Engine  
 - **Setup:** `.agod + .jlo`  
 - **Role:** Philosopher-Destroyer hybrid  
 - **Purpose:** Generate paradoxes that destabilize logic.  
@@ -119,7 +107,7 @@ Scenarios let you:
 
 ## 🔹 Practical / Applied Scenarios  
 
-### 10. Research Assistant  
+### 9. Research Assistant  
 - **Setup:** `.search_agent + .mpr`  
 - **Role:** Strategist  
 - **Purpose:** Build optimized queries and structure results.  
@@ -129,7 +117,7 @@ Scenarios let you:
 
 ---
 
-### 11. Prompt Refiner  
+### 10. Prompt Refiner  
 - **Setup:** `.auto_mpr + .flow`  
 - **Role:** Analyst  
 - **Purpose:** Automatically improve user prompts.  
@@ -139,7 +127,7 @@ Scenarios let you:
 
 ---
 
-### 12. Debate Simulator  
+### 11. Debate Simulator  
 - **Setup:** `.assign_role("judge+strategist") + .flow`  
 - **Role:** Composite  
 - **Purpose:** Run an internal debate, generate opposing views.  
