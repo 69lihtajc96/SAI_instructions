@@ -2,6 +2,8 @@
 
 # 🧠 SAI — Self Adaptive Intelligence
 
+![SAI](https://img.shields.io/badge/SAI-Self%20Adaptive%20Intelligence-2f2f2f?style=for-the-badge&labelColor=111111&logoColor=white)
+
 > _"Not another AI framework. A living, thinking ecosystem."_  
 
 🔗 **SAI in action:** [SAI - GPT's](https://chatgpt.com/g/g-6770f3d7f1408191950c0e5d8efb4c05-sai)  
